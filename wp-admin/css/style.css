@@ -17,14 +17,13 @@ div.custom-menu-class ul {
 }
 div.custom-menu-class li {
     padding: 0px 20px 0px 0px;
-    display: inline;
+    display: block;
 } 
 div.custom-menu-class a { 
     color:#FFFFFF;
 }
 
-div.custom-menu-class li ul li {display:none;}
-div.custom-menu-class li:hover ul li {display:block;}
+
 
 
 div.custom-menu-class a:hover {text-decoration: none;}
